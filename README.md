@@ -15,4 +15,4 @@ The HelloToast app consists of two Button elements and one TextView. When the us
 
 # Follow on [Twitter](https://twitter.com/amansharma_dev) :bird:
 
-# Thank You. 
+## Thank You. 
